@@ -107,4 +107,34 @@ margin-right: 4%;
     margin: 50px 0 10px 30px;
     max-height: 5em;
     font-weight: 700;
+    margin: 50px 0px 50px 30px;
+}
+.budget_friendly{
+    display: flex;
+    flex-wrap: wrap;
+}
+.sale_item{
+    height: 378px;
+    width: 207px;
+    margin: 2px;
+}
+.worthy_brand{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.worthy_item{
+    width: 281.781px;
+    padding: 2px;
+    
+}
+.category{
+    text-transform: uppercase;
+    color: #3e4152;
+    letter-spacing: .15em;
+    font-size: 1.8em;
+    margin: 50px 0 10px 30px;
+    max-height: 5em;
+    font-weight: 700;
+    margin: 50px 0px 50px 30px;
 }
